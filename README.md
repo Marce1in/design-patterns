@@ -16,6 +16,9 @@ about updates without directly knowing them.
 
 ![image](https://github.com/user-attachments/assets/b1bfe493-a9ae-434b-8925-68d6ba00192a)
 
+Video explaning the pattern (in portuguese):
+[https://www.youtube.com/watch?v=xHttfNuoopI]
+
 ## References
 [https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612] <br>
 [https://refactoring.guru/design-patterns/observer] <br>
